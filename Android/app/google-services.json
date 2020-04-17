@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164549098998",
+    "firebase_url": "https://cis-350groupproject.firebaseio.com",
+    "project_id": "cis-350groupproject",
+    "storage_bucket": "cis-350groupproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164549098998:android:281f456acb09f545429bd7",
+        "android_client_info": {
+          "package_name": "com.cis350.groupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164549098998-6i05gvk3agcq47vd0kitle71es7n48es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfVtlWYGgQVXf9c0NLE9vOlb-ZjHnp_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164549098998-6i05gvk3agcq47vd0kitle71es7n48es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

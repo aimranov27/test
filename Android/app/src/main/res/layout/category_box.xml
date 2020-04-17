@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="1dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/category_box"
+        android:layout_width="190dp"
+        android:background="#fff"
+        android:layout_height="190dp">
+
+        <ImageView
+            android:id="@+id/category_image"
+            android:layout_width="190dp"
+            android:layout_height="190dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/business" />
+
+        <TextView
+            android:id="@+id/category_text"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:text="Category"
+            android:textColor="#FFFFFFFF"
+            android:textStyle="normal"
+            android:textSize="25dp"
+            android:background="#AF1da7fd"/>
+    </RelativeLayout>
+</LinearLayout>

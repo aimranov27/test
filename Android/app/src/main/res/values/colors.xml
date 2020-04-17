@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="black_40_transparent">#66000000</color>
+    <color name="reel_background_content_gradient_start">#bf000000</color>
+    <color name="black_20_transparent">#33000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_5_30_transparent">#4d3897f0</color>
+    <color name="blue_4">#ff5eb1ff</color>
+    <color name="blue_5">#ff3897f0</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_15_transparent">#26000000</color>
+    <color name="black_5_transparent">#0d000000</color>
+    <color name="green_6">#ff4e9f2e</color>
+    <color name="red_5">#ED4956</color>
+    <color name="reel_background_content_white_gradient_start">@color/white</color>
+</resources>
